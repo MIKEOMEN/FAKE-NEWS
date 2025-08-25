@@ -52,7 +52,7 @@ Sample of the dataset:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/HarshalNikhade/Fake-News-Detection-.git
+   git clone https://github.com/MIKEOMEN/Fake-News-Detection-.git
    cd fake-news-detection
    ```
 
@@ -93,3 +93,4 @@ You can evaluate the model using:
 * Pandas & NumPy
 * Jupyter Notebook
 * Dataset inspired by examples of fake and real news
+
